@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+**Fadhil Muhammad**  
+Student of Informatics Engineering & Mobile Flutter Enthusiast <br>
+I am currently deepening my knowledge regarding multi-platform using the Dart and Flutter programming languages.
 <!--
 **famuh/famuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
