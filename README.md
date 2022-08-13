@@ -3,6 +3,7 @@
 Student of Informatics Engineering & Mobile Flutter Enthusiast <br>
 I am currently deepening my knowledge regarding multi-platform using the Dart and Flutter programming languages.
 
+### GitHub Statistic
 <p align="left">
 <a href="https://github.com/famuh">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=famuh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
