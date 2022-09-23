@@ -9,7 +9,6 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/fadhil-muhammad79).
 <a href="https://github.com/famuh">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=famuh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=famuh&layout=compact&langs_count=8&theme=algolia"/>
-  <img style="height: 165px;" alt="Edwin Tantawi wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=famuh&theme=react&langs_count=4"/>
 </a>
 </p>
 <!--
