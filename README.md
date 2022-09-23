@@ -1,6 +1,6 @@
 ### Hi there 👋
 **Fadhil Muhammad**  
-Student of Informatics Engineering & Mobile Flutter Enthusiast <br>
+Student of Informatics Engineering & Flutter Enthusiast <br>
 I am currently deepening my knowledge regarding multi-platform using the Dart and Flutter programming languages.
 
 ### GitHub Statistic
