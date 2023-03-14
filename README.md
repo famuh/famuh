@@ -11,7 +11,7 @@ I am currently deepening my knowledge regarding multi-platform using the Dart an
 <summary>📈 Github Statistic</summary>
 <p align=left>
 <p align="left">
-![Famuh's GitHub stats](https://github-readme-stats.vercel.app/api?username=famuh&theme=transparent&show_icons=true)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=famuh&theme=transparent&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=famuh&layout=compact&langs_count=8&theme=algolia"/>
 </p>
   
