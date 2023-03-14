@@ -4,7 +4,7 @@ Mobile Enthusiast <br>
 I am currently deepening my knowledge regarding multi-platform using the Dart and Flutter programming languages.
 
 <summary>🤝 Keep in touch </summary>
-<a href='https://www.linkedin.com/in/fadhil-muhammad-79/'><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href='https://www.linkedin.com/in/fadhil-muhammad79/'><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 
 ### GitHub Statistic
