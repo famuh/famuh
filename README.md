@@ -3,14 +3,19 @@
 Mobile Enthusiast <br>
 I am currently deepening my knowledge regarding multi-platform using the Dart and Flutter programming languages.
 
-Connect with me on [Linkedin](https://www.linkedin.com/in/fadhil-muhammad79).
+<summary>🤝 Keep in touch </summary>
+<a href='https://www.linkedin.com/in/fadhil-muhammad-79/'><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+
 ### GitHub Statistic
+<summary>📈 Github Statistic</summary>
+<p align=left>
 <p align="left">
-<a href="https://github.com/famuh">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=famuh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+![Famuh's GitHub stats](https://github-readme-stats.vercel.app/api?username=famuh&theme=transparent&show_icons=true)
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=famuh&layout=compact&langs_count=8&theme=algolia"/>
-</a>
 </p>
+  
+  
 <!--
 **famuh/famuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
