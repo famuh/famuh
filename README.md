@@ -1,8 +1,8 @@
 ### Hi there 👋
 **Fadhil Muhammad**  
-Mobile Enthusiast <br>
-I deepening my knowledge regarding Mobile Development using the Dart and Flutter also mobile native using Kotlin and Jetpack Compose. <br>
-I have a strong knowledge and familiarity with UI Design and UX Research.
+Mobile & Web Enthusiast <br>
+I deepening my knowledge regarding Mobile Development using the Flutter & Kotlin, and Web Development <br>
+I have a strong knowledge and familiarity with UI Design.
 
 <summary>🤝 Keep in touch </summary>
 <a href='https://www.linkedin.com/in/fadhil-muhammad79/'><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
