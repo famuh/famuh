@@ -1,6 +1,5 @@
-<h2 align="center">Hi, I’m a Software Engineer 👋</h2>
+<h1 align="center">Hi, I’m a Software Engineer 👋</h1>
 
-###
 
 <p align="center">I design and build digital products that solve real business problems — from mobile apps to modern web systems 🚀</p>
 
@@ -28,7 +27,7 @@
 
 ###
 
-<h3 align="center">✨ I build real-world applications that solve real business problems</h3>
+<h2 align="center">✨ I build real-world applications that solve real business problems</h2>
 
 ###
 
@@ -143,6 +142,7 @@
 </div>
 
 ###
+<br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=famuh&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -150,14 +150,11 @@
 
 ###
 
-<p align="left"></p>
+<br>
 
 ###
 
-<h4 align="left">Let’s build something great together 🚀</h4>
-
-###
-
+<h3 align="left">Let’s build something great together 🚀</h3>
 <p align="left">Feel free to explore my work and get in touch anytime.</p>
 
 ###
